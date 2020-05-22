@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AndroidStyles</string>
+
+    <string name="btnOK">OK</string>
+    <string name="topicText">Мадрид - столица Испании.</string>
+    <string name="txtChooseColor">Выберите цвет</string>
+    <string name="txtChooseLanguage">Выберите язык</string>
+    <string name="welcomeText">wel</string>
+
+    <string-array name="language">
+        <item>Русский</item>
+        <item>Английский</item>
+    </string-array>
+
+    <string-array name="color">
+        <item>Черный</item>
+        <item>Зеленый</item>
+        <item>Синий</item>
+    </string-array>
+</resources>
